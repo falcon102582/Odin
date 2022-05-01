@@ -1,2 +1,2 @@
-# Odin
-<h1>Odin Project</h1>
+# Odin Recipes
+<p>First Project based only html</p>
